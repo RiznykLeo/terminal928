@@ -32,3 +32,6 @@ clear terminal
 #mv
 rename file
 move file
+
+#ctrl + a/e
+beggining/end of line
