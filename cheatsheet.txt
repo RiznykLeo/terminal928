@@ -1,0 +1,34 @@
+#pwd
+where am i
+
+#ls
+#ll
+shows content
+
+#cd
+moves into
+
+#cd ../
+moves up
+
+# ~
+move home
+
+#mkdir name
+make dir
+
+#touch name.extension
+create file
+
+#rm filename
+deletes file
+
+#rm -r name
+deletes folder
+
+#ctrl+l
+clear terminal
+
+#mv
+rename file
+move file
